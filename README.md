@@ -1,4 +1,4 @@
 NamedPipe
 =========
 
-Simple example how to make name pipe client and server
+C#. Simple example how to make name pipe client and server 
